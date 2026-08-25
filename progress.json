@@ -271,14 +271,5 @@
       "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1787651393.669359,
-    "completed_at": 1787651402.939505,
-    "comments": [
-      "You are missing some merges"
-    ],
-    "status": "Incomplete"
   }
 ]
